@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal_Project/Assignment7/Content/Levels/MainLevel.umap",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/Drone_Anim.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/Drone.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/Drone_material_0.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/Drone_PhysicsAsset.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/Drone_Skeleton.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Input/IA_Look.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Input/IMC_Drone.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/texture.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Blueprints/BP_DronePawn.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Blueprints/BP_DroneGameMode.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Blueprints/BP_DroneController.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Fab/Sci-fi_Drone/ABP_Drone.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Input/IA_MoveRight.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Input/IA_MoveForward.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Input/IA_MoveUp.uasset",
+				"C:/Unreal_Project/Assignment7/Content/Input/IA_Move.uasset"
+			]
+		}
+	]
+}
